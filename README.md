@@ -1,21 +1,22 @@
-### Here is What I'm Working On! 👋
+Hi there, I'm Akash, a curious developer (frontend) and a passionate learner from 🇮🇳. I ❤️ learning new technologies and building unique & exciting projects. Well efficient in building interactive, feature rich, fully responsive, secure and scalable web apps both in ReactJs. Let's build something exciting?!
 
 💻 My skills
-<hr></hr>
+<hr />
 <ul>
 <li>React JS</li>
+ <li>Redux, Redux Toolkit</li>
+  <li>JavaScript</li>
+  <li>Next JS</li>
+  <li>MaterialUI<li>
+  <li>Bootstrap</li>
+  <li>WordPress</li>
 </ul>
-React JS
-Next JS
-Redux, Redux Toolkit
-Zustand
-Context API
-React Query
-React Table
-Formik
-React hook forms
-Tailwind CSS
-Styled Components
-CSS Modules
-Typescript
-Javascript
+
+✨ Also Efficient In
+<ul>
+<li>Node JS</li>
+ <li>Express JS</li>
+  <li>Mongo DB</li>
+</ul>
+
+
