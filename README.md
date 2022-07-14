@@ -1,16 +1,18 @@
-### Hi there 👋
+### Here is What I'm Working On! 👋
 
-<!--
-**akashgite97/akashgite97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 My skills
+<hr></hr>
+React JS
+Next JS
+Redux, Redux Toolkit
+Zustand
+Context API
+React Query
+React Table
+Formik
+React hook forms
+Tailwind CSS
+Styled Components
+CSS Modules
+Typescript
+Javascript
