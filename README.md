@@ -2,6 +2,9 @@
 
 💻 My skills
 <hr></hr>
+<ul>
+<li>React JS</li>
+</ul>
 React JS
 Next JS
 Redux, Redux Toolkit
