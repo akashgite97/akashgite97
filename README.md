@@ -1,4 +1,4 @@
-Hi there, I'm Akash, a curious developer (frontend) and a passionate learner from 🇮🇳. I ❤️ learning new technologies and building unique & exciting projects. Well efficient in building interactive, feature rich, fully responsive, secure and scalable web apps both ReactJs. Let's build something exciting?!
+Hi there, I'm Akash, a curious developer (frontend) and a passionate learner from 🇮🇳. I ❤️ learning new technologies and building unique & exciting projects. Well efficient in building interactive, feature rich, fully responsive, secure and scalable web apps in ReactJs. Let's build something exciting?!
 
 💻 My skills
 <hr style="margin: 0px 0px 24px 0px;"  />
