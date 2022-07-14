@@ -7,7 +7,7 @@ Hi there, I'm Akash, a curious developer (frontend) and a passionate learner fro
  <li>Redux, Redux Toolkit</li>
  <li>JavaScript</li>
  <li>Next JS</li>
- <li>MaterialUI<li>
+ <li>MaterialUI</li>
  <li>Bootstrap</li>
  <li>WordPress</li>
 </ul>
