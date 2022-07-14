@@ -13,11 +13,15 @@ Hi there, I'm Akash, a curious developer (frontend) and a passionate learner fro
 </ul>
 
 ✨ Also Efficient In
-<hr style="margin:0px 0px 24px 0px; height: 0.1em;"  />
+<hr style="margin:0px 0px 24px 0px; height: 0.1em;"/>
 <ul>
 <li>Node JS</li>
  <li>Express JS</li>
   <li>Mongo DB</li>
 </ul>
+
+📱 Get In Touch
+<hr style="margin:0px 0px 24px 0px; height: 0.1em;"/>
+Linked In - https://www.linkedin.com/in/aravind-k-97b516216/
 
 
