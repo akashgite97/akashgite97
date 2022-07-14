@@ -5,14 +5,15 @@ Hi there, I'm Akash, a curious developer (frontend) and a passionate learner fro
 <ul>
 <li>React JS</li>
  <li>Redux, Redux Toolkit</li>
-  <li>JavaScript</li>
-  <li>Next JS</li>
-  <li>MaterialUI<li>
-  <li>Bootstrap</li>
-  <li>WordPress</li>
+ <li>JavaScript</li>
+ <li>Next JS</li>
+ <li>MaterialUI<li>
+ <li>Bootstrap</li>
+ <li>WordPress</li>
 </ul>
 
 ✨ Also Efficient In
+<hr />
 <ul>
 <li>Node JS</li>
  <li>Express JS</li>
