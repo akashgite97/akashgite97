@@ -15,8 +15,8 @@ Hi there, I'm Akash, a curious developer (frontend) and a passionate learner fro
 ✨ Also Efficient In
 
 <ul>
-<li>Node JS</li>
- <li>Express JS</li>
+<li>NodeJs</li>
+ <li>ExpressJs</li>
   <li>Mongo DB</li>
 </ul>
 
