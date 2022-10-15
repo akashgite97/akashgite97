@@ -18,6 +18,8 @@ Hi there, I'm Akash, a curious developer (frontend) and a passionate learner fro
 <li>NodeJs</li>
  <li>ExpressJs</li>
   <li>Mongo DB</li>
+  <li>Java</li>
+  <li>Springboot</li>
 </ul>
 
 
