@@ -1,4 +1,4 @@
-Hi there, I'm Akash, a curious developer (frontend) and a passionate learner from 🇮🇳. I ❤️ learning new technologies and building unique & exciting projects. Well efficient in building interactive, feature rich, fully responsive, secure and scalable web apps in MERN stack. Let's build something exciting?!
+Hi there, I'm Akash, a curious developer (frontend) and a passionate learner from 🇮🇳. I ❤️ learning new technologies and building unique & exciting projects. Well efficient in building interactive, feature rich, fully responsive, secure and scalable web apps. Let's build something exciting?!
 
 💻 My skills
 
@@ -10,6 +10,8 @@ Hi there, I'm Akash, a curious developer (frontend) and a passionate learner fro
  <li>MaterialUI</li>
  <li>Bootstrap</li>
  <li>WordPress</li>
+ <li>AWS</li>
+ <li>Jenkins</li>
 </ul>
 
 ✨ Also Efficient In
