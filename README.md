@@ -6,6 +6,8 @@ Hi there, I'm Akash, a curious developer (Full Stack) and a passionate learner f
 <li>React JS</li>
  <li>Redux, Redux Toolkit</li>
  <li>JavaScript</li>
+ <li>Java</li>
+ <li>Springboot</li>
  <li>Next JS</li>
  <li>MaterialUI</li>
  <li>Bootstrap</li>
@@ -18,10 +20,8 @@ Hi there, I'm Akash, a curious developer (Full Stack) and a passionate learner f
 
 <ul>
 <li>NodeJs</li>
- <li>ExpressJs</li>
-  <li>Mongo DB</li>
-  <li>Java</li>
-  <li>Springboot</li>
+<li>ExpressJs</li>
+<li>Mongo DB</li>
 </ul>
 
 
