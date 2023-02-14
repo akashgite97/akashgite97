@@ -22,6 +22,7 @@ Hi there, I'm Akash, a curious developer (Full Stack) and a passionate learner f
 <li>NodeJs</li>
 <li>ExpressJs</li>
 <li>Mongo DB</li>
+<li>PostgreSQL</li> 
 </ul>
 
 
